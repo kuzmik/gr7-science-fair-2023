@@ -1,5 +1,7 @@
 ## Grade 7 Science Fair - 2023
 
+I may have used ChatGPT to help generate some of this, because A) it's not **MY** science fair project an B) I didn't want to have to learn to deal with images in code.
+
 ### To get images
 
 1. Open each day/trial image in pixelmator
